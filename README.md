@@ -16,7 +16,7 @@ Este repositorio contiene las funciones de procesamiento estadístico del Superi
 
 Los documentos constituyen una primera versión de las rutinas estadísticas del área, las que están en desarrollo permanente y son de carácter público para control por parte de usuarios interno y externos.
 
-La publicidad de estos documentos se enmarca en una política de socialización de herramientas y criterios teorico-metodológicos con el propósito de mejorarlos de manera coletiva. El objetivo de la misma apunta a forjar las mejores herramientas de investigación a las que puede aspierar una comunidad y poner el conocimiento generado con ellas al servicio de la sociedad. 
+La publicidad de estos documentos se enmarca en una política de socialización de herramientas y criterios teorico-metodológicos con el propósito de mejorarlos de manera coletiva. El objetivo de la misma apunta a forjar las mejores herramientas de investigación a las que pueda aspirar una comunidad y poner el conocimiento generado con ellas a su servicio. 
 
 
 Lic. Sebastián Castillo
